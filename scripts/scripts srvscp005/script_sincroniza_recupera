@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rsync -Cravzpogt --delete /dados/publico/ /recupera/dados/publico
+rsync -Cravzpoqt --delete /dados/scp/ /recupera/dados/scp
+
+rsync -Cravzpoqt --delete /home/ /recupera/home

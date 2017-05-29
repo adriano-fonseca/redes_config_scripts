@@ -1,0 +1,21 @@
+ 
+net groupmap add ntgroup="astec"       unixgroup=astec
+net groupmap add ntgroup="ascom"       unixgroup=ascom
+net groupmap add ntgroup="asjur"       unixgroup=asjur
+net groupmap add ntgroup="da"       unixgroup=da
+net groupmap add ntgroup="gab"       unixgroup=gab
+net groupmap add ntgroup="dg"       unixgroup=dg
+net groupmap add ntgroup="juncor"       unixgroup=juncor
+net groupmap add ntgroup="dade"       unixgroup=dade
+net groupmap add ntgroup="deplan"       unixgroup=deplan
+net groupmap add ntgroup="dpe"       unixgroup=dpe
+net groupmap add ntgroup="da-dmp"       unixgroup=dmp
+net groupmap add ntgroup="dpo"       unixgroup=dpo
+net groupmap add ntgroup="info"       unixgroup=info
+net groupmap add ntgroup="dcapie"       unixgroup=dcapie
+net groupmap add ntgroup="dcapdet"       unixgroup=dcapdet
+net groupmap add ntgroup="comite"       unixgroup=comite
+net groupmap add ntgroup="ateplan"       unixgroup=ateplan
+net groupmap add ntgroup="dpoinfo"       unixgroup=dpoinfo
+net groupmap add ntgroup="bio"       unixgroup=bio
+

@@ -1,0 +1,4 @@
+
+useradd -c 'Servidor impressao' -M -s /bin/false -m srvscp006$
+smbpasswd -a -m srvscp006
+

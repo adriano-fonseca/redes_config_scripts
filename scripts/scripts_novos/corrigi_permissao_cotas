@@ -1,0 +1,49 @@
+
+#permicao publico
+
+chgrp -R astec /dados/publico/ASTEC/
+chgrp -R asjur /dados/publico/ASJUR/
+chgrp -R ascom /dados/publico/ASCOM/
+chgrp -R astec /dados/publico/Biblioteca/
+chgrp -R bio /dados/publico/biodiversidade/
+chgrp -R comite /dados/publico/comite/
+chgrp -R da /dados/publico/DA/
+chgrp -R dade /dados/publico/DADE/
+chgrp -R dcapdet /dados/publico/Dcapet/
+chgrp -R dcapie /dados/publico/dcapie/
+chgrp -R deplan /dados/publico/DEPLAN/
+chgrp -R dg /dados/publico/DG/
+chgrp -R dpe /dados/publico/DPE/
+chgrp -R dpo /dados/publico/Dpo/
+chgrp -R gab /dados/publico/Gabinete/
+chgrp -R info /dados/publico/olap/
+
+#permicao scp
+
+chgrp -R gab /dados/scp/apoio/
+chgrp -R astec /dados/scp/astec/
+chgrp -R asjur /dados/scp/asjur/
+chgrp -R ascom /dados/scp/ascom/
+chgrp -R astec /dados/scp/biblioteca/
+chgrp -R bio /dados/scp/biodiversidade/
+chgrp -R comite /dados/scp/comite/
+chgrp -R da /dados/scp/da/
+chgrp -R dade /dados/scp/dade/
+chgrp -R dcapdet /dados/scp/dcapet/
+chgrp -R dcapie /dados/scp/dcapie/
+chgrp -R deplan /dados/scp/deplan/
+chgrp -R dg /dados/scp/dg/
+chgrp -R dpe /dados/scp/dpe/
+chgrp -R dpo /dados/scp/dpo/
+chgrp -R gab /dados/scp/gabinete/
+chgrp -R info /dados/scp/bd/
+chgrp -R orca /dados/scp/orcamento/
+chgrp -R ppp /dados/scp/programas/ppp
+chgrp -R pmgp /dados/scp/programas/pmgp
+chgrp -R rumos /dados/scp/programas/rumos
+chgrp -R publica /dados/scp/publicacao
+chgrp -R ateplan /dados/scp/ateplan
+
+
+
+

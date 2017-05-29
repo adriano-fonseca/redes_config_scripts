@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#sincroniza samba
+
+rsync -Cravzpoqtg /etc/samba/ root@10.112.16.3:/etc/samba/
+
+#sincroniza dhcp
+rsync -Cravzpoqtg /etc/dhcpd.conf root@10.112.16.3:/etc/dhcpd.conf
+
+#sincroniza usuario e grupos unix
+
+rsync -Cravzpoqtg /etc/passwd root@10.112.16.3:/etc/passwd
+rsync -Cravzpoqtg /etc/shadow root@10.112.16.3:/etc/shadow
+rsync -Cravzpoqtg /etc/group root@10.112.16.3:/etc/group
+
+#sincroza dados e home
+
+rsync -Cravzpoqtg --delete /dados/ root@10.112.16.3:/dados/
+rsync -Cravzpoqtg --delete /home/ root@10.112.16.3:/home/
+

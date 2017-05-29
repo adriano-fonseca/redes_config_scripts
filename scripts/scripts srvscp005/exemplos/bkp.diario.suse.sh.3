@@ -1,0 +1,14 @@
+#!/bin/bash
+DIA=$(date +%Y.%m.%d)
+#rdate -s ntp1.pucpr.br
+chmod -R 777 /dados/scp/.recycle/*
+chmod -R 777 /dados/publico/.recycle/*
+#SCP
+find /dados/scp -mtime -1 -type f -print | tar cvfz /mnt/incre/scp.diario.$DIA.tgz --preserve -T -
+
+#PUBLICO
+find /dados/publico -mtime -1 -type f -print | tar cvfz /mnt/incre/publico.diario.$DIA.tgz --preserve -T -
+
+#HOME
+find /home -mtime -1 -type f -print | tar cvfz /mnt/incre/home.diario.$DIA.tgz --preserve -T -
+

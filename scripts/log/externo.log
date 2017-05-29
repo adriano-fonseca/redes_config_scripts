@@ -1,0 +1,49 @@
+rm: Access failed: 550 asgest.2009.07.12.tgz: The specified network name is no longer available. 
+put: Access failed: 550 asgest.2009.07.19.tgz: The specified network name is no longer available. 
+rm: Access failed: 550 bio.2009.07.12.tgz: The specified network name is no longer available. 
+put: Access failed: 550 bio.2009.07.19.tgz: The specified network name is no longer available. 
+rm: Access failed: 550 decap.2009.07.12.tgz: The specified network name is no longer available. 
+put: Access failed: 550 decap.2009.07.19.tgz: The specified network name is no longer available. 
+rm: Access failed: 550 degesp.2009.07.12.tgz: The specified network name is no longer available. 
+put: Access failed: 550 degesp.2009.07.19.tgz: The specified network name is no longer available. 
+rm: Access failed: 550 deproj.2009.07.12.tgz: The system cannot find the file specified. 
+put: Access failed: 550 deproj.2009.07.19.tgz: The specified network name is no longer available. 
+put: Access failed: 550 do.2009.07.19.tgz: The specified network name is no longer available. 
+rm: Access failed: 550 eq_diretiva.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 estruturantes-indg.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 gab.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 info.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 outros.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 programas.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 publicacao.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 sistema.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 supad.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeA_ab.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeA_cd.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeA_ez.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeB.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeC.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeD.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeE.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeF.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeG.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeH.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeI.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeJ.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeK.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeL.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeM.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeN.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeO.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeP.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeQ.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeR.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeS.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeT.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeU.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeV.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeW.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeX.2009.07.12.tgz: The system cannot find the file specified. 
+rm: Access failed: 550 homeZ.2009.07.12.tgz: The system cannot find the file specified. 
+Usage: rm [-r] [-f] files...
+/mnt/backup/*.sql: no files found
